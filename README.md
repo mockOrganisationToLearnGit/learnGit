@@ -1,1 +1,1 @@
-# learnGit is marvelous
+# learnGit is wonderful
