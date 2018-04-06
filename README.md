@@ -1,1 +1,1 @@
-# learnGit is marvelous and Alex rules
+# learnGit is marvelous and Alex rules always
